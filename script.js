@@ -1,9 +1,9 @@
-const pokemonNameElement = document.querySelector('.pokemon__name');
-const pokemonNumberElement = document.querySelector('.pokemon__number');
-const pokemonImageElement = document.querySelector('.pokemon__image');
+const pokemonNameElement = document.querySelector('.pokemon_name');
+const pokemonNumberElement = document.querySelector('.pokemon_number');
+const pokemonImageElement = document.querySelector('.pokemon_image');
 
 const formElement = document.querySelector('.form');
-const inputElement = document.querySelector('.input__search');
+const inputElement = document.querySelector('.input_search');
 const buttonPrevElement = document.querySelector('.btn-prev');
 const buttonNextElement = document.querySelector('.btn-next');
 
